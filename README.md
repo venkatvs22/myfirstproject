@@ -1,2 +1,2 @@
 # myfirstproject
-basic program
+This is my project about Oracle SQL
